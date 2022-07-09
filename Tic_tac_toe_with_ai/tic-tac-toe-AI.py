@@ -182,7 +182,7 @@ def replay():
 
 #MAIN PROGRAM STARTS;
 
-print("\n\t\t NAMASTE! \n")
+print("\n\t\t Welcome! \n")
 input("Press ENTER to start!")
 
 default()
